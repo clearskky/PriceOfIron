@@ -8,10 +8,6 @@ public class Enemy : MonoBehaviour, IDamagable
 {
     /*
     * Abandon hope all ye who enter here
-    *the code in here is such an intangible mess
-    *that the sorry programmer himself doesn't fully understand
-    *why it works and changing anything will
-    *completely break multiple things
     */
     [SerializeField] private float AIRefreshRate;
     [SerializeField] private float MovementSpeed;
